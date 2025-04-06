@@ -1,5 +1,7 @@
 HabitHero - Gamified Productivity Platform
 
+![image](https://github.com/user-attachments/assets/7cf18574-9f97-4da9-9e17-c2fe89cb07ee)
+
 HabitHero transforms productivity into an immersive, RPG-style experience. Track habits, complete tasks, and level up your character through interactive challenges and rewards, with dynamic character animations and game-inspired mechanics based on the popular anime Solo-Leveling
 
 🎮 Features
